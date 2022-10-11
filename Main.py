@@ -1,5 +1,4 @@
 from typing import List
-
 def merge_sort(data) -> None:
    if len(myList) > 1:
       mid = len(myList) // 2
